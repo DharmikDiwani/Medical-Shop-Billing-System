@@ -1,0 +1,12 @@
+Completed Forms :
+
+1. Login Form
+2. MDI Form
+
+4.28 29.10----------------
+
+3. Product Form ->Tile Button Panel,All Products  09:46 PM 30-10-2020
+  
+4. Product Form -> All items, Add items done, (Edit item working (Database : Purchase Price, Selling Price))02:34 PM 04-11-2020
+
+5.Product Form (View,Add,Edit,Delete done)10:57 AM 05-11-2020 (Database : PurchasePrice, SellingPrice)

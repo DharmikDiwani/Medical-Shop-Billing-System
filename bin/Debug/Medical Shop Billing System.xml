@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Medical Shop Billing System
+</name>
+</assembly>
+<members>
+<member name="T:Medical_Shop_Billing_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Medical_Shop_Billing_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Medical_Shop_Billing_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_Items">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_Items.Tbl_ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_Items.Tbl_ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_Items.Tbl_ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.Tbl_ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Medical_Shop_Billing_System.DB_All_Items,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.UpdateInsertedRows(Medical_Shop_Billing_System.DB_All_Items,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.UpdateDeletedRows(Medical_Shop_Billing_System.DB_All_Items,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.UpdateAll(Medical_Shop_Billing_System.DB_All_Items)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_All_ItemsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSet.Tbl_ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSet.Tbl_ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSet.Tbl_ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.Tbl_ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Medical_Shop_Billing_System.DB_MedicalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Medical_Shop_Billing_System.DB_MedicalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Medical_Shop_Billing_System.DB_MedicalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.UpdateAll(Medical_Shop_Billing_System.DB_MedicalDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Medical_Shop_Billing_System.DB_MedicalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

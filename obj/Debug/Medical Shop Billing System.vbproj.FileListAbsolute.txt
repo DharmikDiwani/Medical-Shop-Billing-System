@@ -1,0 +1,25 @@
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\Medical Shop Billing System.exe.config
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\Medical Shop Billing System.exe
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\Medical Shop Billing System.pdb
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\Medical Shop Billing System.xml
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\Guna.UI2.dll
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.vbprojAssemblyReference.cache
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.LoginForm.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.Resources.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.vbproj.GenerateResource.cache
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.vbproj.CoreCompileInputs.cache
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.vbproj.CopyComplete
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.exe
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.xml
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical Shop Billing System.pdb
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\DB_Medical.mdf
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\DB_Medical_log.ldf
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.MDIForm.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.AboutForm.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.Settings.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.Product_Form.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.AddProduct_Form.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\MsgShow.dll
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\bin\Debug\MsgShow.xml
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.EditItemForm.resources
+E:\Cophix_Work\VB_Projects\Medical Shop Billing System\obj\Debug\Medical_Shop_Billing_System.DeleteItemForm.resources
